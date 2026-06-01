@@ -12,8 +12,18 @@ To write a Python program that defines a function which accepts two values and r
 
 ## 🧾 Program
 
-Add code Here
+```
+def result(a, b):
+    print(a % b)
+
+a = int(input())
+b = int(input())
+
+result(a, b)
+```
 
 ## Output
+<img width="1319" height="630" alt="Screenshot 2026-06-01 110139" src="https://github.com/user-attachments/assets/ab0ca0b2-17f4-420e-a913-71ab661feea2" />
 
 ## Result
+Thus, the program successfully calculates and displays the remainder of the division of the first integer by the second integer.
